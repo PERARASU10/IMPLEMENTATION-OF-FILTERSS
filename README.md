@@ -170,7 +170,7 @@ i) Using Laplacian Kernal
 
 ii) Using Laplacian Operator
 
-![Uploading image.png…]()
+![image](https://github.com/PERARASU10/IMPLEMENTATION-OF-FILTERSS/assets/118348589/19c115a0-6cba-4940-94cf-ae2757a9f046)
 
 
 ## Result:
